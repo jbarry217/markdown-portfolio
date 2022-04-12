@@ -1,1 +1,1 @@
-![image of Jennifer Barry](https://photos.app.goo.gl/7Sd37Udbu2QRgozk7)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
