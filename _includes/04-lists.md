@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+* family 
+* friends
+* dogs
+* coffee
+* hiking
+* tennis
+* travel 
+* camping 
